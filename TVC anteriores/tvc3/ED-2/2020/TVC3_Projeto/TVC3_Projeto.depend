@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1606166495 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\2023\2020\tvc3_projeto\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1673814434 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\2023\2020\tvc3_projeto\arvbinbusca.h
+	"NoArv.h"
+
+1529888100 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\2023\2020\tvc3_projeto\noarv.h
+
+1673819575 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\2023\2020\tvc3_projeto\arvbinbusca.cpp
+	<iostream>
+	<cmath>
+	"ArvBinBusca.h"
+
+1606166495 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\ed-2\2020\tvc3_projeto\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1673814434 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\ed-2\2020\tvc3_projeto\arvbinbusca.h
+	"NoArv.h"
+
+1529888100 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\ed-2\2020\tvc3_projeto\noarv.h
+
+1673837384 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc3\ed-2\2020\tvc3_projeto\arvbinbusca.cpp
+	<iostream>
+	<cmath>
+	"ArvBinBusca.h"
+

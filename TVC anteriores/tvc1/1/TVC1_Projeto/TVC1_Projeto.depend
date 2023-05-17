@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1666539782 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc1\1\tvc1_projeto\caminho.cpp
+	<iostream>
+	<cmath>
+	"Caminho.h"
+
+1567957055 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc1\1\tvc1_projeto\caminho.h
+
+1666574977 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc1\1\tvc1_projeto\matrizdistancias.cpp
+	<iostream>
+	<cstdlib>
+	"MatrizDistancias.h"
+
+1567972283 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc1\1\tvc1_projeto\matrizdistancias.h
+
+1666539390 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc1\1\tvc1_projeto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"Caminho.h"
+	"MatrizDistancias.h"
+

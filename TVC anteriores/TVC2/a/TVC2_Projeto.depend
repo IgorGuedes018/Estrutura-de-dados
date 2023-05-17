@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1571064590 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
+1571015026 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\listacont.h
+
+1670855492 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
+1570973934 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\listaencad.h
+	"No.h"
+
+1559261250 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\no.h
+
+1571015722 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\main.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+	"ListaCont.h"
+	"ListaEncad.h"
+	"ListaDupla.h"
+
+1559261286 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\pilhaencad.h
+	"No.h"
+
+1571015378 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\listadupla.h
+	"NoDuplo.h"
+
+1559260938 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\noduplo.h
+
+1571064590 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1670853643 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\a\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1670851668 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
+1571015026 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\listacont.h
+
+1670852416 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1571015378 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\listadupla.h
+	"NoDuplo.h"
+
+1559260938 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\noduplo.h
+
+1571015650 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+
+1570973934 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\listaencad.h
+	"No.h"
+
+1559261250 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\no.h
+
+1571064590 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1559261286 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\pilhaencad.h
+	"No.h"
+
+1670851677 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\tvc2\prova\main.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+	"ListaCont.h"
+	"ListaEncad.h"
+	"ListaDupla.h"
+
