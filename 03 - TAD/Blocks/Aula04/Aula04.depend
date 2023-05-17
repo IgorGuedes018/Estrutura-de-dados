@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504533048 source:c:\users\igor\desktop\facul\materias\s.o.s 3\lab 2\3-tad\blocks\aula04\aluno.cpp
+	"Aluno.h"
+
+1447841821 c:\users\igor\desktop\facul\materias\s.o.s 3\lab 2\3-tad\blocks\aula04\aluno.h
+	<iostream>
+	<string>
+
+1504537183 source:c:\users\igor\desktop\facul\materias\s.o.s 3\lab 2\3-tad\blocks\aula04\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Prova.h"
+
+1504532744 c:\users\igor\desktop\facul\materias\s.o.s 3\lab 2\3-tad\blocks\aula04\prova.h
+	<iostream>
+
+1447842593 source:c:\users\igor\desktop\facul\materias\s.o.s 3\lab 2\3-tad\blocks\aula04\prova.cpp
+	"Prova.h"
+

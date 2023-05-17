@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1670797728 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\8-lista dupla encadeada\aula08\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaDupla.h"
+
+1670796460 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\8-lista dupla encadeada\aula08\listadupla.h
+	"NoDuplo.h"
+
+1526870650 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\8-lista dupla encadeada\aula08\noduplo.h
+
+1670799085 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\8-lista dupla encadeada\aula08\listadupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+

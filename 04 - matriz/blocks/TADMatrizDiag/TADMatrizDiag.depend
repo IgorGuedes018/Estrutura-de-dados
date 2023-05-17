@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665176326 source:c:\users\igor\desktop\aaa\tadmatrizdiag\main.cpp
+	<iostream>
+	"MatrizDiag.h"
+
+1665175977 c:\users\igor\desktop\aaa\tadmatrizdiag\matrizdiag.h
+
+1665176192 source:c:\users\igor\desktop\aaa\tadmatrizdiag\matrizdiag.cpp
+	<iostream>
+	"MatrizDiag.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1670368897 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\6-listas cont\aula06\main.cpp
+	<iostream>
+	"Ponto.h"
+	"ListaCont.h"
+
+1525656607 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\6-listas cont\aula06\ponto.h
+	<cmath>
+
+1670368803 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\6-listas cont\aula06\listacont.h
+	"Ponto.h"
+
+1670369359 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\6-listas cont\aula06\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1670810914 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\7- lista encadeada\aula07\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ListaEncad.h"
+
+1670810059 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\7- lista encadeada\aula07\listaencad.h
+	"No.h"
+
+1526334908 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\7- lista encadeada\aula07\no.h
+
+1670811397 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\7- lista encadeada\aula07\listaencad.cpp
+	<iostream>
+	<cstdlib>
+	"ListaEncad.h"
+

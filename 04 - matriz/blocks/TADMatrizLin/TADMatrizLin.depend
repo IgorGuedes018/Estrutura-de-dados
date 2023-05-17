@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665174857 source:c:\users\igor\desktop\aaa\tadmatrizlin\main.cpp
+	<iostream>
+	"MatrizLin.h"
+
+1666577659 c:\users\igor\desktop\aaa\tadmatrizlin\matrizlin.h
+
+1665174857 source:c:\users\igor\desktop\aaa\tadmatrizlin\matrizlin.cpp
+	<iostream>
+	"MatrizLin.h"
+
