@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1671655831 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\saulo\tadarvbin\arvbin.cpp
+	<iostream>
+	<sstream>
+	"ArvBin.h"
+	"FilaEncad.h"
+
+1671655383 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\saulo\tadarvbin\arvbin.h
+	"NoArv.h"
+
+1671049667 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\saulo\tadarvbin\noarv.h
+
+1671654755 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\saulo\tadarvbin\filaencad.h
+	"No.h"
+	"NoArv.h"
+
+1671654430 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\saulo\tadarvbin\no.h
+	"NoArv.h"
+
+1671654802 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\saulo\tadarvbin\filaencad.cpp
+	<iostream>
+	"FilaEncad.h"
+
+1671655636 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\saulo\tadarvbin\main.cpp
+	<iostream>
+	"ArvBin.h"
+

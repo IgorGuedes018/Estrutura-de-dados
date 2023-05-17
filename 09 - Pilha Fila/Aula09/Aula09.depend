@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1670764295 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\9 pilha fila\aula09\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1670763001 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\9 pilha fila\aula09\pilhaencad.h
+	"No.h"
+
+1528122242 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\9 pilha fila\aula09\no.h
+
+1670787768 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\9 pilha fila\aula09\filaencad.cpp
+	<iostream>
+	<cstdlib>
+	"FilaEncad.h"
+
+1670786029 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\9 pilha fila\aula09\filaencad.h
+	"No.h"
+
+1670787637 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\9 pilha fila\aula09\main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+

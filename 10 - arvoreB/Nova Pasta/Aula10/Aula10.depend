@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1673748628 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\nova pasta\aula10\main.cpp
+	<iostream>
+	"ArvBin.h"
+
+1673752491 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\nova pasta\aula10\arvbin.h
+	"NoArv.h"
+
+1529358780 c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\nova pasta\aula10\noarv.h
+
+1673752469 source:c:\users\igor\onedrive\facul\materias\s.o.s 3\lab 2\10-arvoreb\nova pasta\aula10\arvbin.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	"ArvBin.h"
+
